@@ -55,6 +55,6 @@ stock_data = download_stock_data(ticker_symbol, start_date, end_date, timeframe=
 
 #stock_data = find_large_price_gaps(stock_data) #Выявление дней с самыми большими Гэпами между открытием и закрытием
 
-
+#ddddw
 
 print(stock_data.head())
